@@ -1,16 +1,23 @@
-## Hi there 👋
+# Hi, I'm Richard Garcia! 👋
 
-<!--
-**RixCrafts/RixCrafts** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate web developer specializing in building innovative solutions, including Chrome Extensions and AI-driven automation tools.
 
-Here are some ideas to get you started:
+## 🛠 Skills
+- **Languages:** JavaScript, Python, HTML, CSS
+- **Frameworks:** React, Node.js
+- **Tools:** Git, Webpack, Docker
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://komarev.com/ghpvc/?username=rixcrafts&style=flat-square&color=blue" alt=""/>
+
+## 📫 Connect with Me
+
+<div id="badges">
+<a href="https://www.linkedin.com/in/richard-garcía-5a089a202">
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+</a>
+<a href="https://twitter.com/Richard_RixDev">
+<img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+</a>
+</div>
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=RixCrafts&show_icons=true)
