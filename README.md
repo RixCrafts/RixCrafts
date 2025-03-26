@@ -3,9 +3,9 @@
 I'm a passionate web developer specializing in building innovative solutions, including Chrome Extensions and AI-driven automation tools.
 
 ## 🛠 Skills
-- **Languages:** JavaScript, Python, HTML, CSS
-- **Frameworks:** React, Node.js
-- **Tools:** Git, Webpack, Docker
+- **Languages:** JavaScript, HTML, CSS
+- **Frameworks:** React
+- **Tools:** Git
 
 <img src="https://komarev.com/ghpvc/?username=rixcrafts&style=flat-square&color=blue" alt=""/>
 
