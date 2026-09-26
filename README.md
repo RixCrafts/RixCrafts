@@ -7,9 +7,9 @@
 
 **Web experiences · Browser extensions · AI & workflow automation · Shopify**
 
+[![RixCrafts](https://img.shields.io/badge/RixCrafts-Visit_agency-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rixcrafts.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Let's_connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-garcía-5a089a202)
 [![X](https://img.shields.io/badge/X-@Richard__RixDev-111111?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/Richard_RixDev)
-![Tampa, Florida](https://img.shields.io/badge/Tampa%2C_Florida-6C63FF?style=for-the-badge&logo=googlemaps&logoColor=white)
 
 <br />
 
@@ -36,24 +36,26 @@ I'm a Tampa-based developer behind **RixCrafts Digital Services LLC**. I turn ev
 <tr>
 <td width="50%" valign="top">
 
-### ⌨️ [tabrush](https://github.com/RixCrafts/tabrush)
+### ↕️ [Up and Down](https://chromewebstore.google.com/detail/lbndijopclehmbpmahjhkjoajeimjjjd)
 
-**Reload every open tab with one keyboard shortcut.**
+**A smoother way to keep moving through long pages.**
 
-A focused Chrome extension built to turn a repetitive browser task into a single action.
+A Chrome extension built to add an infinite-scrolling workflow where you need it.
 
-[Explore the repository →](https://github.com/RixCrafts/tabrush)
+[Install from the Chrome Web Store →](https://chromewebstore.google.com/detail/lbndijopclehmbpmahjhkjoajeimjjjd)
 
 </td>
 <td width="50%" valign="top">
 
-### ✨ [Fresh Start Multiservices](https://github.com/RixCrafts/fresh_start_multiservices)
+### ⌨️ TabRush
 
-**A clear online home for a local service business.**
+![In development](https://img.shields.io/badge/STATUS-IN_DEVELOPMENT-F59E0B?style=flat-square)
 
-A responsive company website that makes services easier to discover and understand.
+**Reload every open tab with one keyboard shortcut.**
 
-[Explore the repository →](https://github.com/RixCrafts/fresh_start_multiservices)
+A focused Chrome extension in active development, built to turn a repetitive browser task into a single action.
+
+*Coming soon to the Chrome Web Store.*
 
 </td>
 </tr>
@@ -90,6 +92,7 @@ I care about clear interfaces, maintainable systems, and giving people tools the
 
 **Let's turn it into something people can actually use.**
 
+[![Visit RixCrafts](https://img.shields.io/badge/Visit_RixCrafts-6C63FF?style=for-the-badge&logo=googlechrome&logoColor=white)](https://rixcrafts.com)
 [![Connect on LinkedIn](https://img.shields.io/badge/Connect_on_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-garcía-5a089a202)
 
 <br />
